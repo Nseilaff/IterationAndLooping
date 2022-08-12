@@ -1,0 +1,15 @@
+C:\Users\seila\Desktop\Repos\Looping\Looping\bin\Debug\net6.0\Looping.exe
+C:\Users\seila\Desktop\Repos\Looping\Looping\bin\Debug\net6.0\Looping.deps.json
+C:\Users\seila\Desktop\Repos\Looping\Looping\bin\Debug\net6.0\Looping.runtimeconfig.json
+C:\Users\seila\Desktop\Repos\Looping\Looping\bin\Debug\net6.0\Looping.dll
+C:\Users\seila\Desktop\Repos\Looping\Looping\bin\Debug\net6.0\Looping.pdb
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.csproj.AssemblyReference.cache
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.AssemblyInfoInputs.cache
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.AssemblyInfo.cs
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.csproj.CoreCompileInputs.cache
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.dll
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\refint\Looping.dll
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.pdb
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\Looping.genruntimeconfig.cache
+C:\Users\seila\Desktop\Repos\Looping\Looping\obj\Debug\net6.0\ref\Looping.dll
